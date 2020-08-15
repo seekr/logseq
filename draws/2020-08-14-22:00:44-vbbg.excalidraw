@@ -1,0 +1,97 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://logseq.com",
+  "elements": [
+    {
+      "id": "s8lqSKlmbkMvM2hZabLED",
+      "type": "rectangle",
+      "x": 529,
+      "y": 217,
+      "width": 258,
+      "height": 240,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 2071656037,
+      "version": 38,
+      "versionNonce": 1528904107,
+      "isDeleted": false
+    },
+    {
+      "id": "bvrw1OTnY5VXVtl1ZXM16",
+      "type": "ellipse",
+      "x": 705,
+      "y": 314,
+      "width": 153,
+      "height": 92,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1307101829,
+      "version": 99,
+      "versionNonce": 1797457221,
+      "isDeleted": false
+    },
+    {
+      "id": "ntNk_RhXwSeq9YETjbfeV",
+      "type": "draw",
+      "x": 725,
+      "y": 392,
+      "width": 64,
+      "height": 73,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 1925466085,
+      "version": 19,
+      "versionNonce": 1059106373,
+      "isDeleted": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          21,
+          -31
+        ],
+        [
+          24,
+          -37
+        ],
+        [
+          45,
+          -59
+        ],
+        [
+          64,
+          -73
+        ]
+      ],
+      "lastCommittedPoint": null
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#FFF",
+    "gridSize": null
+  }
+}
